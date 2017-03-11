@@ -121,8 +121,15 @@ a:after {
 
 #headerwrap .logo {
 	text-align: left;
-	margin-left: -10px;
-	margin-top: 15px;
+}
+
+#flag {
+	width: 42px;
+	transition-duration: 0.5s;
+}
+
+#flag:hover {
+	width: 55px;
 }
 
 
